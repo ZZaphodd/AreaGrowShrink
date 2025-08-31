@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>Area Grow/Shrink Buttons</name>
+  <author>KyungMyung</author>
+  <description>
+    Adds Grow / Shrink buttons next to the Area Allowed gizmo for pawns.
+  </description>
+  <packageId>kyungmyung.areagrowshrink</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+</ModMetaData>
